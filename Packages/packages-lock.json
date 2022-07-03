@@ -67,8 +67,8 @@
       "dependencies": {}
     },
     "com.unity.burst": {
-      "version": "1.7.2",
-      "depth": 2,
+      "version": "1.7.3",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1"
@@ -92,7 +92,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-      "version": "3.0.14",
+      "version": "3.0.15",
       "depth": 0,
       "source": "registry",
       "dependencies": {
